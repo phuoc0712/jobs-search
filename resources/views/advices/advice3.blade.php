@@ -1,0 +1,38 @@
+@extends('layouts.master')
+@section('content')
+    <div class="container">
+        <div id="new_detail" class="col-md-12">
+            <ol class="breadcrumb">
+                <li><a href="{{url('/advices')}}">Tư vấn nghề nghiệp</a></li>
+            </ol>
+            <div class="body_content" itemscope="" itemtype="http://schema.org/Article">
+                <h1 class="title" itemprop="headline">Những Dấu Hiệu Cho Thấy Bạn Nên Nghỉ Việc Ngay Ngày Đầu Tiên Đi Làm</h1>
+                <div itemprop="articleBody">
+                    <p></p><p>Đối với những nhân viên mới, ngày đầu tiên đi làm luôn đầy sự bất ngờ. Bạn sẽ không thể biết được những gì mong đợi từ một vai trò và nhà tuyển dụng mới.&nbsp;Thật không may, một số có thể nhận thấy có nhiều điều bất ngờ xấu hơn là tốt khi bắt đầu một công việc mới.&nbsp;Những người cảm thấy bị áp lực khi phải chấp nhận một lời đề nghị do thất nghiệp kéo dài hoặc nhu cầu tài chính có thể thấy họ sẽ vội vàng quay trở lại lực lượng lao động dẫn đến việc chấp nhận một công việc kém hơn lý tưởng và khiến họ cảm thấy hối tiếc hoặc choáng ngợp.</p>
+                    <p><img alt="" src="http://www.findjobs.vn/htdocs/images/FIRST%20WEEK%20JOB_Mesa%20de%20trabajo%201.jpg" class="c1"></p>
+                    <p>Hầu hết nhân viên đều biết rằng trong những trường hợp bình thường, bỏ việc trong hoặc sau ngày đầu tiên làm việc là một sai lầm lớn trong sự nghiệp.&nbsp;Theo Bộ Lao động Hoa Kỳ, việc tuyển dụng không thành công có thể khiến người sử dụng lao động phải trả tới&nbsp;30%&nbsp;lương của nhân viên, chưa kể thời gian cần thiết để bắt đầu lại quá trình tuyển dụng từ đầu.&nbsp;Ngoài ra, những nhân viên quyết định nghỉ việc vào ngày đầu tiên của họ tỏ ra không đáng tin cậy, thờ ơ với nhu cầu của nhà tuyển dụng và không quan tâm đến những cầu nối cháy bỏng trong sự nghiệp của họ.</p>
+                    <p>Tuy nhiên, luôn có những trường hợp ngoại lệ, và mặc dù đó nên là phương sách cuối cùng và tình huống xấu nhất, có những lúc rời đi sau một ngày làm việc là một quyết định tốt hơn là tiếp tục.&nbsp;Hãy xem một vài lý do tại sao ngày đầu tiên của một nhân viên cũng nên là ngày cuối cùng.</p>
+                    <h3><strong>Đạo đức</strong></h3>
+                    <p>Trong một thế giới hoàn hảo, người sử dụng lao động nên dẫn đầu bằng cách làm gương, đặc biệt là khi giới thiệu nhân viên mới.&nbsp;Thật không may, một số nhà tuyển dụng ưu tiên lợi nhuận cao hơn đạo đức .&nbsp;Điều này có thể là do tình trạng tham nhũng phổ biến trong công ty, hoặc đơn giản là một người quản lý gian dối với các ưu tiên đặt sai vị trí.&nbsp;Dù bằng cách nào, nếu nhân viên bị yêu cầu làm điều gì đó bất hợp pháp hoặc không trung thực vào ngày đầu tiên của họ, đó có thể chỉ là phần nổi của tảng băng chìm, và cơ hội để mọi thứ được cải thiện và dẫn đến c lâu dài và thành công với tổ chức là rất nhỏ.&nbsp;Người sử dụng lao động không bao giờ được yêu cầu nhân viên thỏa hiệp đạo đức của họ và bất kỳ người sử dụng lao động nào trong tương lai đặt câu hỏi về lý do nghỉ việc của họ phải hiểu và tôn trọng sự chính trực của họ khi làm như vậy.</p>
+                    <h3><strong>Quảng cáo sai</strong></h3>
+                    <p>Có thể hiểu rằng một công việc mới có thể bao gồm một số nhiệm vụ mà nhân viên không mong đợi, cũng như trách nhiệm có thể được thêm vào khi nhân viên điều chỉnh và vai trò phát triển.&nbsp;Tuy nhiên, đối với một số công việc có thể khó chịu, khó lấp đầy hoặc có thể có doanh thu cao, nhà tuyển dụng có thể có xu hướng quảng cáo vai trò như một thứ gì đó không phải để thúc đẩy phản ứng của ứng viên hoặc tránh trả một mức lương thích hợp.&nbsp;Những nhân viên trở thành nạn nhân của “miếng mồi và sự chuyển đổi” này không nên cảm thấy bắt buộc phải tiếp tục ở một vai trò bị mô tả sai, và nên cảnh giác khi làm việc cho một nhà tuyển dụng dựa vào các hoạt động tuyển dụng không trung thực để lấp đầy các vị trí mở.</p>
+                    <h3><strong>Vấn đề tiền bạc</strong></h3>
+                    <p>Cũng giống như nhà tuyển dụng có thể bị cám dỗ để trình bày sai trách nhiệm công việc để làm cho quá trình tuyển dụng dễ dàng hơn một chút, vì vậy họ cũng có thể có xu hướng trình bày sai mức lương của công việc.&nbsp;Bằng cách giảm lương, nhà tuyển dụng có thể hy vọng nhận được nhiều hơn với ít hơn bằng cách tận dụng những người mới thuê không đủ khả năng để bắt đầu lại quá trình tìm kiếm việc làm của họ.&nbsp;Một chiến thuật khác là tính phí đào tạo nhân viên mới.&nbsp;Trong khi một số tiểu bang cho phép người sử dụng lao động yêu cầu người lao động trả tiền đào tạo, những kẻ lừa đảo việc làm giả danh các doanh nghiệp hợp pháp có thể tính phí những người thuê mới không nghi ngờ để đào tạo cho những công việc không thực sự tồn tại hoặc đơn giản chỉ để kiếm tiền từ phí đào tạo.&nbsp;Những nhân viên được yêu cầu trả tiền đào tạo ngay khi bắt đầu công việc cần hết sức thận trọng.</p>
+                    <h3><strong>Môi trường độc hại</strong></h3>
+                    <p>Lý do rõ ràng nhất để rời bỏ công việc mà không cần nhìn lại là nếu môi trường làm việc quá độc hại, nó có thể đe dọa đến sức khỏe tinh thần hoặc thể chất của nhân viên.&nbsp;Thông thường, ảnh hưởng của việc làm việc trong môi trường độc hại sẽ tích tụ theo thời gian cho đến khi cuối cùng, nhân viên cảm thấy họ không thể tiếp nhận được nữa và bắt đầu tìm kiếm công việc mới.&nbsp;Trong trường hợp văn hóa độc hại của công ty được thể hiện rõ vào ngày đầu tiên, nhân viên nên tin tưởng vào bản năng của họ và rời đi.&nbsp;Môi trường làm việc độc hại thường trở nên tồi tệ hơn trước khi chúng trở nên tốt hơn, và những môi trường tốt hơn có thể mất nhiều năm.&nbsp;Thời gian của nhân viên tốt hơn nhiều dành cho việc tìm kiếm một công việc mà họ sẽ thực sự hạnh phúc hơn là hy vọng một công việc khiến họ khốn khổ sẽ được cải thiện.</p>
+                    <p>Hầu hết các nhân viên đều biết rằng khi bắt đầu một công việc mới, họ nên tiếp cận công việc đó với tinh thần cam kết chứ không chỉ như một thử nghiệm để xác định xem công việc đó có đáng ở lại hay không.&nbsp;Tuy nhiên, ngay cả những người làm đúng mọi thứ trong quá trình tìm kiếm việc làm của họ cũng có thể rơi vào một vị trí không phù hợp và rời đi ngay lập tức là lựa chọn tốt nhất.&nbsp;Những nhân viên đó nên thoải mái khi biết rằng không cần thiết phải liệt kê một vị trí trong sơ yếu lý lịch của họ rằng họ chỉ làm việc trong một ngày và việc rời đi sau vài tháng sẽ khó giải thích hơn nhiều với các nhà tuyển dụng tương lai.&nbsp;Mọi người đều có quyền đôi khi gặp sai lầm trong con đường sự nghiệp của họ.&nbsp;Miễn là nó không trở thành một khuôn mẫu, thì tốt hơn bạn nên tiếp tục là một người tìm việc trong vài tuần hoặc vài tháng hơn là tiếp tục là một nhân viên không hạnh phúc trong nhiều năm.</p>
+                    <p></p>
+                </div>
+                <div class="source">Nguồn: Theundercoverrecruiter</div>
+                <div class="clearfix"></div>
+                    <hr/>
+                    <h2 class="tc">Xem các tin khác</h2>
+                    <ol class="arrow arrow-gray">
+                        <li><a href="{{url('/advices/article-number-2')}}">Bạn Đang Tìm Kiếm Một Công Việc Mới? Những Thói Quen Xấu Này Có Thể Kìm Hãm Bạn</a></li>
+                        <li><a href="{{url('/advices/article-number-4')}}">Mẹo Cần Biết Cho 3 Mẫu Sơ Yếu Lý Lịch Cho 3 Trình Độ Khác Nhau</a></li>
+                        <li><a href="{{url('/advices/article-number-1')}}">Làm Thế Nào Để Tạo Ấn Tượng Lúc Phỏng Vấn</a></li>
+                    </ol>
+            </div>
+        </div>
+    </div>
+@endsection
